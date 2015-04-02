@@ -1,0 +1,9 @@
+{
+    "name": "wikipedia",
+    "description": "Easy access to the Wikipedia API for content retrieval.",
+    "homepage": "https://github.com/neopostmodern/meteor-wikipedia",
+    "author": "Clemens Schöll <clemens@neopostmodern.com> (https://github.com/neopostmodern)",
+    "version": "0.0.1",
+    "git": "https://github.com/neopostmodern/wikipedia.git",
+    "packages": {}
+}
